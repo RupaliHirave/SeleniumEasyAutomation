@@ -6,5 +6,12 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Automation softwares/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Automation softwares/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation softwares/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Automation softwares/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation softwares/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation softwares/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Automation softwares/Selenium/client-combined-3.141.59-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
